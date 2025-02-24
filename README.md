@@ -1,5 +1,7 @@
 # Airbnb Market Insights Analysis Dashboard
+
 Airbnb Market Insights: Comprehensive Analysis of Booking Trends and Pricing Across Major European Cities
+
 ![Image](https://github.com/user-attachments/assets/8bb3bff7-9512-454f-8309-8508b7ccee6f)
 
 ![Image](https://github.com/user-attachments/assets/5bcaf733-cdb9-417a-9cff-4ac221193da2)
